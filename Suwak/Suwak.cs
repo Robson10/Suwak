@@ -16,7 +16,6 @@ namespace Suwak
         {
             InitializeComponent();
             DoubleBuffered = true;
-//            this.Size = new Size(100, 20);
             this.Size = new Size(250, 50);
             BackColor = Color.Blue;
             Invalidate();
